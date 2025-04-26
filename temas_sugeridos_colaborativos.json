@@ -1,1 +1,133 @@
-{}
+{
+  "educação antirracista": {
+    "keywords": [
+      "racismo",
+      "etnia",
+      "afro",
+      "discriminação",
+      "negritude"
+    ],
+    "atividades": [
+      "Roda de conversa sobre identidade racial",
+      "Produção de murais sobre igualdade étnico-racial",
+      "Análise de livros com protagonistas negros"
+    ]
+  },
+  "consciência socioambiental": {
+    "keywords": [
+      "sustentabilidade",
+      "meio ambiente",
+      "reciclagem",
+      "desenvolvimento sustentável"
+    ],
+    "atividades": [
+      "Campanhas de coleta seletiva",
+      "Projeto de horta comunitária",
+      "Oficinas de reutilização de materiais recicláveis"
+    ]
+  },
+  "cidadania digital": {
+    "keywords": [
+      "ética digital",
+      "segurança na internet",
+      "ciberbullying",
+      "fake news"
+    ],
+    "atividades": [
+      "Palestras sobre segurança online",
+      "Campanhas de combate às fake news",
+      "Oficinas sobre cidadania e comportamento ético na internet"
+    ]
+  },
+  "direitos humanos": {
+    "keywords": [
+      "direitos civis",
+      "igualdade",
+      "justiça social",
+      "liberdades fundamentais"
+    ],
+    "atividades": [
+      "Debates sobre casos de violação de direitos humanos",
+      "Campanhas escolares sobre igualdade de direitos",
+      "Exposições de cartazes sobre justiça social"
+    ]
+  },
+  "inclusão de pessoas com deficiência": {
+    "keywords": [
+      "acessibilidade",
+      "inclusão",
+      "pcd",
+      "diversidade funcional"
+    ],
+    "atividades": [
+      "Oficinas de sensibilização sobre deficiência",
+      "Criação de materiais educativos acessíveis",
+      "Simulações de inclusão em ambientes escolares"
+    ]
+  },
+  "educação para igualdade de gênero": {
+    "keywords": [
+      "gênero",
+      "feminismo",
+      "igualdade de gênero",
+      "violência contra mulher"
+    ],
+    "atividades": [
+      "Rodas de conversa sobre igualdade de gênero",
+      "Campanhas de enfrentamento à violência contra a mulher",
+      "Análise de representações de gênero na mídia"
+    ]
+  },
+  "valorização da cultura indígena": {
+    "keywords": [
+      "povos indígenas",
+      "cultura indígena",
+      "tradições",
+      "direitos indígenas"
+    ],
+    "atividades": [
+      "Apresentações culturais de povos indígenas",
+      "Confecção de painéis sobre cultura indígena",
+      "Estudos sobre a história dos povos indígenas no Brasil"
+    ]
+  },
+  "consciência sobre direitos LGBTQIA+": {
+    "keywords": [
+      "lgbtqia+",
+      "diversidade sexual",
+      "identidade de gênero",
+      "orientação sexual"
+    ],
+    "atividades": [
+      "Rodas de conversa sobre diversidade sexual",
+      "Oficinas de respeito às diferenças",
+      "Campanhas de combate à homofobia e transfobia"
+    ]
+  },
+  "participação democrática": {
+    "keywords": [
+      "democracia",
+      "cidadania ativa",
+      "participação social",
+      "controle social"
+    ],
+    "atividades": [
+      "Simulações de assembleias escolares",
+      "Projetos de eleição de representantes de turma",
+      "Oficinas sobre direitos e deveres do cidadão"
+    ]
+  },
+  "educação para a paz": {
+    "keywords": [
+      "não violência",
+      "resolução de conflitos",
+      "cultura de paz",
+      "diálogo"
+    ],
+    "atividades": [
+      "Oficinas de mediação de conflitos",
+      "Criação de cartazes sobre valores da paz",
+      "Debates sobre práticas de não violência"
+    ]
+  }
+}
